@@ -2,7 +2,7 @@
 Practicas de la semana 1 
 
 ## Caso: Abogabot
-Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
+Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una aplicacion llenando un formulario.
 
 ## Ventanas de la App
 * El usuario debera logearse o registrase dentro de la aplicacion en caso de no contar con una cuenta.
